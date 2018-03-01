@@ -322,7 +322,7 @@ img.icon:hover {
 .mapArea{
   background:url(../images/map-bro.png) repeat-x 0 0%;
   padding-top:4px;
-  margin-left: 40%;
+  margin-left: 400px;
   margin-right: auto;
   height:400px;
   overflow:hidden;
