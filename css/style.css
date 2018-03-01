@@ -303,6 +303,7 @@ img.icon:hover {
   background-color: #ddd;
   margin-top: -30px;
   padding-top: 60px;
+
 /*  //font-family: 'Karla';*/
   font-size: 19px;
   line-height: 25px;
@@ -321,10 +322,15 @@ img.icon:hover {
 .mapArea{
   background:url(../images/map-bro.png) repeat-x 0 0%;
   padding-top:4px;
-  margin-left: 400px;
+  margin-left: 40%;
+  margin-right: auto;
   height:400px;
   overflow:hidden;
   width: 70%;
+  white-space:nowrap;
+  min-width: 300px;
+  max-width: 650px;
+
 
 }
 .mapArea iframe{
